@@ -1,0 +1,30 @@
+{
+  "name": "koa-wxpay",
+  "version": "1.0.2",
+  "description": "koa weixin pay package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donghanji/koa-wxpay.git"
+  },
+  "keywords": [
+    "wxpay",
+    "weixin-pay",
+    "koa-wxpay",
+    "koa-weixin-pay"
+  ],
+  "author": "donghanji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donghanji/koa-wxpay/issues"
+  },
+  "homepage": "https://github.com/donghanji/koa-wxpay#readme",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "request": "^2.87.0",
+    "xml2js": "^0.4.19"
+  }
+}
